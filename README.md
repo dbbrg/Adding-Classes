@@ -11,5 +11,4 @@ Select the first list-element element of an unordered list and add <code>class="
 
 Select the last list-element of an unordered list and add <code>class="last"</code>
 
-
-
+That's it.
